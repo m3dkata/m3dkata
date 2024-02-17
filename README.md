@@ -63,7 +63,8 @@ Here are some ideas to get you started:
 <img height="450" src="https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula" />
 
 <img height="250" src="https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<!--
 <p>
   <!-- <summary>:zap: GitHub Stats</summary> -->
   <img height="250" alt="My GitHub Stats" src="https://vercel.com/m3dkatas-projects/github-readme-stats/GD5CYyQjhobyqJPvSVjP6AKTKgzj/api?username=m3dkata&count_private=true&random=23423ads&include_all_commits=true&hide_border=true&theme=night_vibe" />
@@ -75,3 +76,4 @@ Here are some ideas to get you started:
   
   <a href="https://twitter.com/intent/tweet?url=https://github.com/m3dkata&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 150px;"/></a>
 </p>
+-->
