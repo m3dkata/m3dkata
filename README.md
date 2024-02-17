@@ -65,11 +65,8 @@ Here are some ideas to get you started:
 
 <img height="250" src="https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2">
 
-<p>
-  
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="250" alt="My GitHub Stats" src="https://vercel.com/m3dkatas-projects/github-readme-stats/GD5CYyQjhobyqJPvSVjP6AKTKgzj/api?username=m3dkata&count_private=true&random=23423ads&include_all_commits=true&hide_border=true&theme=night_vibe" />
 <br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,html,css"><br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
