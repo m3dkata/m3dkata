@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **m3dkata/m3dkata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=radical)]
 
 <p align="center">
   <img width="150px" src="https://user-images.githubusercontent.com/112943652/204597640-c06943dc-c63a-4ef1-948b-2555bcfca612.png" align="center" />
@@ -33,7 +28,7 @@ Here are some ideas to get you started:
   <a href="docs/readme_ru.md">Русский</a>
 </h3>
 <br>
-
+-->
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 # My name is Mehmed Cherkez.
 #### Pronouns: he/him 
