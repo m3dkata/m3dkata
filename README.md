@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 
 <br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,html,css"><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
