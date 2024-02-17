@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 </h3>
 <br>
 -->
+
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 # My name is Mehmed Cherkez.
 #### Pronouns: he/him 
@@ -63,17 +64,12 @@ Here are some ideas to get you started:
 <img height="450" src="https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula" />
 
 <img height="250" src="https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<!--
+
 <p>
+  
   <!-- <summary>:zap: GitHub Stats</summary> -->
   <img height="250" alt="My GitHub Stats" src="https://vercel.com/m3dkatas-projects/github-readme-stats/GD5CYyQjhobyqJPvSVjP6AKTKgzj/api?username=m3dkata&count_private=true&random=23423ads&include_all_commits=true&hide_border=true&theme=night_vibe" />
 <br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,html,css"><br>
-  <img height="250" alt="My GitHub Stats" src="https://vercel.com/m3dkatas-projects/github-readme-stats/GD5CYyQjhobyqJPvSVjP6AKTKgzj/api/top-langs/?username=m3dkata&layout=compact&langs_count=4&theme=night_vibe&text_color=00FFFB&hide_border=true" />
-
-<a href="https://github.com/m3dkata/m3dkata.github.io"> <img width="500px" alt="My GitHub Repo" src="https://vercel.com/m3dkatas-projects/github-readme-stats/GD5CYyQjhobyqJPvSVjP6AKTKgzj/api/pin/?username=m3dkata&theme=midnight-purple&repo=m3dkata.github.io" /> </a> <a href="https://github.com/m3dkata/PythonWebFramework">  <img width="520px" alt="My GitHub Repo" src="https://vercel.com/m3dkatas-projects/github-readme-stats/GD5CYyQjhobyqJPvSVjP6AKTKgzj/api/pin/?username=m3dkata&theme=night_vibe&repo=PythonWebFramework" /> </a>
-<a href="https://github.com/m3dkata/Python-Web-Basics">  <img width="520px" alt="My GitHub Repo" src="https://vercel.com/m3dkatas-projects/github-readme-stats/GD5CYyQjhobyqJPvSVjP6AKTKgzj/api/pin/?username=m3dkata&theme=night_vibe&repo=Python-Web-Basics" /> </a>
-  
-  <a href="https://twitter.com/intent/tweet?url=https://github.com/m3dkata&text=I%20found%20This%20cool%20GitHub%20profile" target="_blank"><img src="https://img.shields.io/badge/-Tweet-0394F9?style=flat-square&logo=Twitter&logoColor=white" style="width: 150px;"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata)](https://github.com/anuraghazra/github-readme-stats)
 </p>
--->
+
