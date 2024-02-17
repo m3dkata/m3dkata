@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 ### 🚀 Reach me:
 - Discord: <a href="https://discord.com/"></a>
 - GitHub Message-me: <a href="https://github.com/m3dkata/Message-me">GitHub Public conversations</a>
-- Email: mitko.vtori@gmail.com
+- Email: kidn3y@kidn3y.com
+- Email: m3dkata_tr@abv.bg 
 - Linkedin: <a href="https://www.linkedin.com/in/mehmed-cherkez-609143255/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
 <br>
 <img height="450" src="https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula" />
