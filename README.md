@@ -47,11 +47,7 @@ Here are some ideas to get you started:
 - <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Currently learning JavaScript for Front-end.**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204319333-10213b8e-6525-4d92-a9f4-f38b10f1c795.jpg"> **Learn new things every day and have no intention of stopping.**
 ### 🧗‍♂️ Hobbies:
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png"> **I love Gaming!**
-- **🚲 Bicycle racer**
 - **👨‍💻 Learning new things**
-- **⚽ Playing football**
-- <img width="65" src="https://see.fontimg.com/api/renderfont4/Go4D/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/ZnJpZW5kcw/motor.png"> **Going out with friends**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Programming**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> **Watching Movies**
 ### 🚀 Reach me:
