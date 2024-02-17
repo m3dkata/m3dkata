@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Programming**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> **Watching Movies**
 ### 🚀 Reach me:
-- Discord: <a href="https://discord.com/">PlayerDM#8795</a>
+- Discord: <a href="https://discord.com/"></a>
 - GitHub Message-me: <a href="https://github.com/m3dkata/Message-me">GitHub Public conversations</a>
 - Email: mitko.vtori@gmail.com
 - Linkedin: <a href="https://www.linkedin.com/in/mehmed-cherkez-609143255/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
