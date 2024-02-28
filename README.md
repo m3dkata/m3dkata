@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/medkata/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmed-cherkez-609143255/)
-[![Youtube](https://img.shields.io/badge/-Youtube-00B2FF?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@medkatacherkezov6634)
+[![Youtube](https://img.shields.io/badge/-Youtube-00B2FF?style=flat-square&logo=Youtube&logoColor=red)](https://www.youtube.com/@medkatacherkezov6634)
 ### <img width="35" src="https://user-images.githubusercontent.com/112943652/204311407-7a8cff06-9582-4c68-a7b6-a756c95f3a5c.jpg"> _**Software knowledge**_
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **Intern Python Web Developer**
 - <img width="15" src="https://skillicons.dev/icons?i=html"> Good knowledge of **html and css**!
