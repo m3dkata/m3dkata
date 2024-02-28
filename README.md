@@ -33,14 +33,10 @@ Here are some ideas to get you started:
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 # My name is Mehmed Cherkez.
 #### Pronouns: he/him 
-<!--
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080198403604)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/call.me.mitko/)
-[![Twitter](https://img.shields.io/badge/-Twitter-10EAED?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/m3dkata)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FFFFFF?style=flat-square&logo=StackOverflow)](https://stackoverflow.com/users/20446595/mitko-vtori)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/m3dkata)
--->
+
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/medkata/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmed-cherkez-609143255/)
+[![Youtube](https://img.shields.io/badge/-Youtube-00B2FF?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/@medkatacherkezov6634)
 ### <img width="35" src="https://user-images.githubusercontent.com/112943652/204311407-7a8cff06-9582-4c68-a7b6-a756c95f3a5c.jpg"> _**Software knowledge**_
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **Intern Python Web Developer**
 - <img width="15" src="https://skillicons.dev/icons?i=html"> Good knowledge of **html and css**!
