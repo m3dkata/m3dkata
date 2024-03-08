@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **Intern Python Web Developer**
 - <img width="15" src="https://skillicons.dev/icons?i=html"> Good knowledge of **html and css**!
 - <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Currently learning JavaScript for Front-end.**
-- **3D Printing & CNC-ing & CAD/CAM Systems.**
+
 
 ### 🧗‍♂️ Hobbies:
 - **👨‍💻 Learning new things**
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Programming**
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204322437-8ce45d92-118f-4595-b726-09b798e02b85.png"> **Watching Movies**
+- **3D Printing & CNC-ing & CAD/CAM Systems.**
 ### 🚀 Reach me:
 
 - GitHub Message-me: <a href="https://github.com/m3dkata/Message-me">GitHub Public conversations</a>
