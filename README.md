@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <img height="250" src="https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2">
 
-<br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,javascript,react,angular,html,css"><br>
+<br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,javascript,svelte,react,angular,html,css"><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
