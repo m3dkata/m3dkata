@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-Linkedin-08C6F5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmed-cherkez-609143255/)
 [![Youtube](https://img.shields.io/badge/-Youtube-00B2FF?style=flat-square&logo=Youtube&logoColor=red)](https://www.youtube.com/@medkatacherkezov6634)
 ### _**Software knowledge**_
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **Intern Python Web Developer**
-- <img width="15" src="https://skillicons.dev/icons?i=html"> Good knowledge of **html and css**!
-- <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Currently learning JavaScript for Front-end.**
+- <img width="20" src="https://user-images.githubusercontent.com/112943652/204306560-fd4a804a-ed48-4b1d-a81c-162bc286d612.png"> **Python Full Stack Developer**
+- <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Currently learning React and Angular.**
 
 
 ### 🧗‍♂️ Hobbies:
