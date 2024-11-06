@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](./assets/github_stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
