@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 - Email: m3dkata_tr@abv.bg 
 - Linkedin: <a href="https://www.linkedin.com/in/mehmed-cherkez-609143255/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
 <br>
+<br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,javascript,svelte,react,angular,html,css"><br>
 <img height="450" src="https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula" />
 
 <img height="250" src="https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2">
 
-<br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,javascript,svelte,react,angular,html,css"><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](./github_stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
