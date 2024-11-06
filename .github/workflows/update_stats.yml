@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch Private GitHub Stats
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           # Create assets directory if it doesn't exist
           mkdir -p assets
