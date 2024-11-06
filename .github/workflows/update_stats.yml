@@ -2,15 +2,21 @@ name: Update GitHub Stats with Private Repo Count
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Trigger every hour (adjust as needed)
+  workflow_dispatch:    # Trigger manually
+    inputs:
+      message:
+        description: 'Commit message'
+        required: true
+        default: 'Update stats'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Generate GitHub Stats
         env:
