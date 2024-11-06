@@ -1,0 +1,38 @@
+name: Update GitHub Stats with Private Repo Count
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour to update the stats
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Private GitHub Stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          # Create assets directory if it doesn't exist
+          mkdir -p assets
+          # Fetch GitHub stats with private repo count and save to assets/github_stats.svg
+          curl -H "Authorization: token $GH_TOKEN" \
+               "https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula&count_private=true" \
+               -o "assets/github_stats.svg"
+      
+      - name: Update README with Private Stats
+        run: |
+          # Replace existing stats URL with updated assets/github_stats.svg path
+          sed -i 's|!\[Anurag|[![Anurag|' README.md
+          sed -i '/\[!\[Anurag/s|](https.*)|](./assets/github_stats.svg)|' README.md
+
+          # Commit changes to Git
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md assets/github_stats.svg
+          git commit -m "Update GitHub Stats with private repo count"
+          git push
