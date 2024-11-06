@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 <br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,javascript,svelte,react,angular,html,css"><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](./github_stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
