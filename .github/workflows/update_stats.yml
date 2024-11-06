@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to v3 for Node 16/20 support
 
       - name: Generate GitHub Stats
         env:
@@ -19,12 +19,12 @@ jobs:
           curl -H "Authorization: token $GH_TOKEN" \
                "https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula&count_private=true" \
                -o "github_stats.svg"
-        
+      
       - name: Update README with Stats
         run: |
           sed -i '/\[!\[Anurag/s|](https.*)|](github_stats.svg)|' README.md
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add README.md
-          git commit -m "Updated GitHub Stats with private repo count"
-          git push
+          git commit -m "Updated GitHub Stats with private repo count" || echo "No changes to commit"
+          git push || echo "Push failed"
