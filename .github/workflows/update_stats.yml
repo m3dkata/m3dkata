@@ -26,12 +26,7 @@ jobs:
           curl -H "Authorization: token $GH_TOKEN" \
                "https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula&count_private=true" \
                -o "assets/github_stats.svg"
-      - name: Debug GitHub Token
-        run: |
-          echo "GH_TOKEN=${{ secrets.PAT_TOKEN }}"  # Verify if the token is being passed correctly
-          git remote -v  # Check the remote URL
-      
-
+               
       - name: Update README with Stats
         run: |
           sed -i 's|!\[Anurag|[![Anurag|' README.md
