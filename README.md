@@ -26,23 +26,32 @@ Here are some ideas to get you started:
 - <img width="25" src="https://user-images.githubusercontent.com/112943652/204318265-aedf0143-ba28-4e3f-829a-df3817ea5172.png"> **Currently learning React and Angular.**
 -->
 
-### 🧗‍♂️ Hobbies:
-- **👨‍💻 Learning new things**
-- <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png"> **Programming**
-- **3D Printing & CNC-ing & CAD/CAM Systems.**
-### 🚀 Reach me:
+### 🎨 Hobbies & Interests
+- 🌐 **Exploring New Knowledge** — Always learning and diving into new topics
+- 💻 **Programming** — A daily pursuit and passion
+- 🖨️ **3D Printing & CNC Machining** — Creating tangible ideas with precision
+- ⚙️ **CAD/CAM Systems** — Designing and simulating projects with technical tools
+- 📐 **DIY Projects** — From coding solutions to hardware hacks, I love making things work!
 
-- Email: kidn3y@kidn3y.com
-- Email: m3dkata_tr@abv.bg 
-- Linkedin: <a href="https://www.linkedin.com/in/mehmed-cherkez-609143255/">**Linked**<img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png"></a>
-<br>
-<br><br><img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,javascript,svelte,react,angular,html,css"><br>
-<img height="450" src="https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula" />
+### 🌐 Let's Connect!
+- 📧 Email: [kidn3y@kidn3y.com](mailto:kidn3y@kidn3y.com)
+- 📧 Alternate Email: [m3dkata_tr@abv.bg](mailto:m3dkata_tr@abv.bg)
+- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/mehmed-cherkez-609143255/) <img width="15" src="https://user-images.githubusercontent.com/112943652/204323974-4c914872-a8f2-44d6-9200-43b8be2f9244.png">
+- 🎥 YouTube: [Follow for Content](https://www.youtube.com/@medkatacherkezov6634) <img width="15" src="https://img.icons8.com/color/48/youtube-play.png"/>
 
-<img height="250" src="https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2">
+---
 
+### 👨‍💻 Tech Stack
+<img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,javascript,svelte,react,angular,html,css">
+
+---
+
+### 🏆 GitHub Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](./github_stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
