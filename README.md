@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻 Tech Stack
-<img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,kotlin,javascript,svelte,react,angular,html,css">
+<img height="125" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,swift,java,kotlin,javascript,html,css">
 
 ---
 
