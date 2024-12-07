@@ -47,13 +47,10 @@ Here are some ideas to get you started:
 ---
 
 ### 🏆 GitHub Achievements
-[![Top Langs](https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=m3dkata&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2)
+[![Top Langs](https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=modern-lilac2)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=m3dkata&show_icons=true&theme=modern-lilac2&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=modern-lilac2)
+![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2)
 
 
 
