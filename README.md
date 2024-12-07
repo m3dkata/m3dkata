@@ -48,8 +48,11 @@ Here are some ideas to get you started:
 
 ### 🏆 GitHub Achievements
 [![Top Langs](https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula)
+
 ![Anurag's GitHub stats](https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=m3dkata&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=modern-lilac2)
 
 
