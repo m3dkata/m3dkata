@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=m3dkata&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=modern-bear)
+![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=radical)
 
 
 
