@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there I`m Mehmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-# I'm a Senior Full Stack Developer.
+# I'm a Full Stack Developer.
 #### Pronouns: he/him 
 <!--
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/medkata/)
@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 ### 🏆 GitHub Achievements
 [![Top Langs](https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula)
+<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=m3dkata&column=4&theme=dracula)-->
 
 ![Anurag's GitHub stats](https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=m3dkata&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=m3dkata&theme=radical)](https://git.io/streak-stats)-->
 
 
 
