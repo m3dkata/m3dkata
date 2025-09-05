@@ -50,11 +50,11 @@ Passionate Full Stack Python Developer with 5+ years of experience building scal
 
 ### 🌐 Let's Connect!
 <p align="center">
-  📧 **Email**: [m3dkatatr@gmail.com](mailto:m3dkatatr@gmail.com) |
-  📧 **Email**: [m3dkata_tr@abv.bg](mailto:m3dkata_tr@abv.bg) |
-  📧 **Email**: [kidn3y@kidn3y.com](mailto:kidn3y@kidn3y.com) |
-  📞 **Phone**: +359 893 94 11 88 |
-  📍 **Location**: Breznitsa, BG |
+  📧 **Email**: <a href="mailto:m3dkatatr@gmail.com">m3dkatatr@gmail.com</a><br>
+  📧 **Email**: <a href="mailto:m3dkata_tr@abv.bg">m3dkata_tr@abv.bg</a><br>
+  📧 **Email**: <a href="mailto:kidn3y@kidn3y.com">kidn3y@kidn3y.com</a><br>
+  📞 **Phone**: +359 893 94 11 88<br>
+  📍 **Location**: Breznitsa, BG<br>
   💼 **Available for freelance work**
 </p>
 
@@ -74,11 +74,12 @@ Passionate Full Stack Python Developer with 5+ years of experience building scal
 
 ### 👨‍💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,nextjs,typescript,tailwind,html,css,aws,azure,docker,postgresql,mysql,mongodb,redis,git,github,vscode,postman&perline=12" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,nextjs,typescript,tailwind,html,css,java,kotlin,swift,androidstudio,xcode,aws,azure,docker,jenkins,postgresql,mysql,mongodb,redis,git,github,vscode,postman&perline=12" alt="Tech Stack">
 </p>
 
 <p align="center">
-  <strong>Frontend:</strong> React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3<br>
+  <strong>Frontend:</strong> React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, Java, Kotlin, SwiftUI<br>
+  <strong>Mobile Development:</strong> Android Studio, Xcode, Kotlin, SwiftUI<br>
   <strong>Backend:</strong> Python, Django, FastAPI, Flask, Node.js, Express<br>
   <strong>Databases:</strong> PostgreSQL, MySQL, MongoDB, Redis, SQLite<br>
   <strong>DevOps & Cloud:</strong> Docker, Jenkins, Coolify, AWS, Azure, CI/CD, Kubernetes, Terraform<br>
