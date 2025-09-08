@@ -1,20 +1,37 @@
-name: Update Stats
+name: Update README with GitHub Stats
+
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 1 * * *'  # Runs daily at 1 AM
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-      - name: Generate Stats
-        run: |
-          curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/users/m3dkata/stats" \
-            > stats.json
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.STATS_TOKEN }}
+      
+      - name: Download stats artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: github-stats
+          path: ./
+      
       - name: Update README
         run: |
-
+          # Replace the stats section in README
+          sed -i '/<p align="center">/,/<\/p>/s|<img src="https://github-stats-git-main-m3dkatas-projects\.vercel\.app/[^"]*" alt="[^"]*" />|<img src="./stats.svg" alt="GitHub Stats" />|g' README.md
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md stats.svg top-langs.svg
+          git diff --staged --quiet || git commit -m "Update GitHub stats"
+          git push
