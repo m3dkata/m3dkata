@@ -18,14 +18,15 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
       
       - name: Download stats artifacts
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: github-stats
           path: ./
       
       - name: Update README
         run: |
-          node scripts/generate-stats-readme.js
+          # Replace the stats section in README
+          sed -i '/<p align="center">/,/<\/p>/s|<img src="https://github-stats-git-main-m3dkatas-projects\.vercel\.app/[^"]*" alt="[^"]*" />|<img src="./stats.svg" alt="GitHub Stats" />|g' README.md
           
       - name: Commit and push changes
         run: |
@@ -33,3 +34,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md stats.svg top-langs.svg
           git diff --staged --quiet || git commit -m "Update GitHub stats"
+          git push
