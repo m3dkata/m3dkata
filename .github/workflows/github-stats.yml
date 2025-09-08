@@ -2,77 +2,75 @@ name: GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:     # Allows manual triggering
+  - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+    # Allows manual triggering
 
 jobs:
   generate-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: m3dkata
-          token: ${{ secrets.STATS_TOKEN }}
-          cache_seconds: 43200  # 12 hours cache
-          
-      - name: Update README
-        run: |
-          # Create a simple stats section
-          cat > stats-section.md << 'EOF'
-### 🏆 GitHub Achievements
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="./top-langs.svg" alt="Top Languages">
-  </a>
-</p>
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="./stats.svg" alt="GitHub Stats">
-  </a>
-</p>
+    - name: Generate GitHub Stats
+      uses: anuraghazra/github-readme-stats@master
+      with:
+        username: m3dkata
+        token: ${{ secrets.STATS_TOKEN }}
+        cache_seconds: 43200 # 12 hours cache
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m3dkata&style=for-the-badge&color=blue" alt="Profile Views">
-</p>
-EOF
-          
-      - name: Update README with stats
-        run: |
-          # Replace the stats section in README
-          python3 -c "
-          import re
-          
-          # Read README
-          with open('README.md', 'r') as f:
-              content = f.read()
-          
-          # Read new stats section
-          with open('stats-section.md', 'r') as f:
-              stats_section = f.read()
-          
-          # Replace the stats section
-          pattern = r'### 🏆 GitHub Achievements.*?(?=###|\Z)'
-          replacement = stats_section
-          
-          updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
-          
-          # Write back to README
-          with open('README.md', 'w') as f:
-              f.write(updated_content)
-          "
-          
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md stats.svg top-langs.svg stats-section.md
-          git diff --staged --quiet || git commit -m "Update GitHub stats"
-          git push
+    - name: Update README
+      run: |
+        echo '### 🏆 GitHub Achievements' > stats-section.md
+        echo '<p align="center">' >> stats-section.md
+        echo '  <a href="https://github.com/anuraghazra/github-readme-stats">' >> stats-section.md
+        echo '    <img src="./top-langs.svg" alt="Top Languages">' >> stats-section.md
+        echo '  </a>' >> stats-section.md
+        echo '</p>' >> stats-section.md
+        echo '' >> stats-section.md
+        echo '<p align="center">' >> stats-section.md
+        echo '  <a href="https://github.com/anuraghazra/github-readme-stats">' >> stats-section.md
+        echo '    <img src="./stats.svg" alt="GitHub Stats">' >> stats-section.md
+        echo '  </a>' >> stats-section.md
+        echo '</p>' >> stats-section.md
+        echo '' >> stats-section.md
+        echo '<p align="center">' >> stats-section.md
+        echo '  <img src="https://komarev.com/ghpvc/?username=m3dkata&style=for-the-badge&color=blue" alt="Profile Views">' >> stats-section.md
+        echo '</p>' >> stats-section.md
+
+    - name: Update README with stats
+      run: |
+        # Replace the stats section in README
+        python3 -c "
+        import re
+
+        # Read README
+        with open('README.md', 'r') as f:
+            content = f.read()
+
+        # Read new stats section
+        with open('stats-section.md', 'r') as f:
+            stats_section = f.read()
+
+        # Replace the stats section
+        pattern = r'### 🏆 GitHub Achievements.*?(?=###|\Z)'
+        replacement = stats_section
+
+        updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+        # Write back to README
+        with open('README.md', 'w') as f:
+            f.write(updated_content)
+        "
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md stats.svg top-langs.svg stats-section.md
+        git diff --staged --quiet || git commit -m "Update GitHub stats"
+        git push
