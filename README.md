@@ -89,20 +89,17 @@ Passionate Full Stack Python Developer with 5+ years of experience building scal
 ---
 
 ### 🏆 GitHub Achievements
+<!-- Stats will be updated by GitHub Action -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="./top-langs.svg" alt="Top Languages">
-  </a>
+  <img src="./top-langs.svg" alt="Top Languages">
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="./stats.svg" alt="GitHub Stats">
-  </a>
+  <img src="./stats.svg" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m3dkata&style=for-the-badge&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=m3dkata&style=for-badge&color=blue" alt="Profile Views">
 </p>
 
 ---

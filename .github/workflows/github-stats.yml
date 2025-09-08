@@ -1,4 +1,4 @@
-name: Generate GitHub Stats
+name: GitHub Stats
 
 on:
   schedule:
@@ -9,7 +9,7 @@ jobs:
   generate-stats:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -22,10 +22,57 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
           cache_seconds: 43200  # 12 hours cache
           
-      - name: Upload stats as artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-stats
-          path: |
-            stats.svg
-            top-langs.svg
+      - name: Update README
+        run: |
+          # Create a simple stats section
+          cat > stats-section.md << 'EOF'
+### 🏆 GitHub Achievements
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./top-langs.svg" alt="Top Languages">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./stats.svg" alt="GitHub Stats">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m3dkata&style=for-the-badge&color=blue" alt="Profile Views">
+</p>
+EOF
+          
+      - name: Update README with stats
+        run: |
+          # Replace the stats section in README
+          python3 -c "
+          import re
+          
+          # Read README
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          # Read new stats section
+          with open('stats-section.md', 'r') as f:
+              stats_section = f.read()
+          
+          # Replace the stats section
+          pattern = r'### 🏆 GitHub Achievements.*?(?=###|\Z)'
+          replacement = stats_section
+          
+          updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+          
+          # Write back to README
+          with open('README.md', 'w') as f:
+              f.write(updated_content)
+          "
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md stats.svg top-langs.svg stats-section.md
+          git diff --staged --quiet || git commit -m "Update GitHub stats"
+          git push
