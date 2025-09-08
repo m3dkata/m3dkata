@@ -74,7 +74,7 @@ Passionate Full Stack Python Developer with 5+ years of experience building scal
 
 ### 👨‍💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,nextjs,typescript,tailwind,html,css,java,kotlin,swift,androidstudio,xcode,aws,azure,docker,jenkins,postgresql,mysql,mongodb,redis,git,github,vscode,postman&perline=12" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,nextjs,typescript,tailwind,html,css,java,kotlin,swift,androidstudio,aws,azure,docker,jenkins,postgresql,mysql,mongodb,redis,git,github,vscode,postman&perline=12" alt="Tech Stack">
 </p>
 
 <p align="center">
@@ -89,18 +89,22 @@ Passionate Full Stack Python Developer with 5+ years of experience building scal
 ---
 
 ### 🏆 GitHub Achievements
-<!-- Stats will be updated by GitHub Action -->
 <p align="center">
-  <img src="./top-langs.svg" alt="Top Languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=synthwave" alt="Top Languages">
+  </a>
 </p>
 
 <p align="center">
-  <img src="./stats.svg" alt="GitHub Stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=m3dkata&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m3dkata&style=for-badge&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=m3dkata&style=for-the-badge&color=blue" alt="Profile Views">
 </p>
+
 
 ---
 
