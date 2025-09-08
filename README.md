@@ -91,13 +91,13 @@ Passionate Full Stack Python Developer with 5+ years of experience building scal
 ### 🏆 GitHub Achievements
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=synthwave" alt="Top Languages">
+    <img src="./top-langs.svg" alt="Top Languages">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=m3dkata&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img src="./stats.svg" alt="GitHub Stats">
   </a>
 </p>
 
