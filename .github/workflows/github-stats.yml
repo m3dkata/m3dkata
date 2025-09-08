@@ -1,0 +1,32 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: m3dkata
+          token: ${{ secrets.STATS_TOKEN }}
+          cache_seconds: 43200  # 12 hours cache
+          
+      - name: Upload stats as artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-stats
+          path: |
+            stats.svg
+            top-langs.svg
