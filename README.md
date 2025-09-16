@@ -47,7 +47,7 @@ Passionate Full Stack Python Developer with 5+ years of experience building scal
 | [Django Advanced](https://softuni.bg/certificates/details/233316/df631ee7) | SoftUni | 2024 | Certified |
 | [Software Engineering & DevOps](https://softuni.bg/certificates/details/246542/4e1acba0) | SoftUni | 2025 | Certified |
 | [Containers & Cloud](https://softuni.bg/certificates/details/250163/0f1b7cea) | SoftUni | 2025 | Certified |
-
+| [Software Engineer with Python](https://softuni.bg/certificates/details/250331/c52be80e) | SoftUni | 2025 | Diploma |
 ### 🌐 Let's Connect!
 <p align="center">
   📧 **Email**: <a href="mailto:m3dkatatr@gmail.com">m3dkatatr@gmail.com</a><br>
